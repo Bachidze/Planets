@@ -156,7 +156,7 @@ export default function Planets() {
           Surface
         </motion.h2>
       </div>
-      <div className="border opacity-25"></div>
+      <div className="border xl:opacity-25"></div>
       <div className="xl:flex xl:justify-between xl:items-center xl:w-[1100px] xl:m-auto max-w-[1440px]">
         <div className="flex flex-col justify-center items-center pt-[95px] md:pt-[146px]">
           <motion.img
